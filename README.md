@@ -102,4 +102,4 @@ https://www.random-example.url/
 ...
 
 ```
-This structure allow the user to know **from which page** the url was found. It is useful for making a **schema** or a **grap**h of the **structure of the targeted website**.
+This structure allow the user to know **from which page** the url was found. It is useful to make a **schema** or a **grap**h of the **structure of the targeted website**.
