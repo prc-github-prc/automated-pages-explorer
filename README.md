@@ -84,7 +84,7 @@ If you want more details about how the **script works**, you can just **read the
 
 *******************
 
-## How are structured the results backup files :
+## How are results backup files structured :
 
 if the user-provided url is **https://www.random-example.url/**, the results backup file will be :
 ```
