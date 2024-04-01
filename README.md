@@ -1,7 +1,7 @@
 # Automated Pages Explorer :
 
 **Disclaimer: This script is for educational purposes only.**
-**Do not use against any network,system or application that you don't own or have authorisation to test.**
+**Do not use against any network, system or application that you don't own or have authorisation to test.**
 
 **Licence** : this project is under the [MIT licence](https://mit-license.org/).
 ************************************
