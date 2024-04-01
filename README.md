@@ -14,11 +14,11 @@ It is a **solo** project that I ([prc-github-prc](https://github.com/prc-github-
 
 ##### 1. Install git :
 -windows : download the exe file for windows from the [official website](https://git-scm.com/download/win)
--linux (debian, ubuntu, kali...) : ```
+-linux (debian, ubuntu, kali...) : 
 ```
 sudo apt install git
 ```
--linux (arch) : ```
+-linux (arch) : 
 ```
 sudo pacman -S git
 ```
@@ -26,18 +26,18 @@ sudo pacman -S git
 ##### 2. Install python(3) :
 -windows : download the exe file from the [official website](https://www.python.org/downloads/) (if pip is **not directly installed** with python, please consider **searching solutions on internet**)
 
--linux (debian, ubuntu, kali...) : ```
+-linux (debian, ubuntu, kali...) : 
 ```
 sudo apt install python3 python3-pip
 ```
--linux (arch) : ```
+-linux (arch) : 
 ```
 sudo pacman -S python3 python3-pip
 ```
 
 ##### 3. Install dependencies with pip (some dependencies may be already satisfied):
 
--powershell or cmd for windows, bash or sh for linux : ```
+-powershell or cmd for windows, bash or sh for linux : 
 ```
 pip install requests BeautifulSoup
 ```
@@ -48,18 +48,18 @@ pip3 install requests BeautifulSoup
 
 ##### 4. Clone the project (commands are the same for windows and linux) :
 ```
-git clone !!!https://www.github.com/prc-github-prc/automated-pages-explorer!!!
-cd !!!automated-pages-explorer!!!
+git clone https://github.com/prc-github-prc/automated-pages-explorer/
+cd automated-pages-explorer
 ```
 
 ##### 5. Utilisation (commands are the same for windows and linux) : 
 from the project clone directory (./automated-pages-explorer/) :
 ```
-python !!!explorer.py!!! <url> <save file (optional)
+python pages_expl.py <url> <save file (optional)>
 ```
 or :
 ```
-python3 !!!explorer.py!!! <url> <save file (optional)
+python3 pages_expl.py <url> <save file (optional)>
 ```
 
 ***************
