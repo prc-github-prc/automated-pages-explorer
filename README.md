@@ -81,3 +81,25 @@ for url in urls_list :
 This way of process works because in python when we iterate on a list, if new elements are added to the list, theses element **are processed to**. So in the case, we find **internal links** with the **user-provided url** . For each link, we do the **same**. And when there is no new link anymore, **the loop ends**.
 
 If you want more details about how the **script works**, you can just **read the code and the comments**.
+
+*******************
+
+## How are structured the results backup files :
+
+if the user-provided url is **https://www.random-example.url/**, the results backup file will be :
+```
+https://www.random-example.url/ :
+https://www.random-example.url/page1
+https://www.random-example.url/page2
+...
+
+https://www.random-example.url/page1 :
+https://www.random-example.url/
+...
+
+https://www.random-example.url/page2 :
+https://www.random-example.url/
+...
+
+```
+This structure allow the user to know from which page the url was found. It is useful for making a schema or a graph of the structure of the targeted website.
