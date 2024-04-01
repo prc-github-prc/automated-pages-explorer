@@ -1,5 +1,5 @@
 # Disclaimer: This script is for educational purposes only. 
-# Do not use against any network,system or application that you don't own or have authorisation to test.
+# Do not use against any network, system or application that you don't own or have authorisation to test.
 
 import requests
 from bs4 import BeautifulSoup as bs
