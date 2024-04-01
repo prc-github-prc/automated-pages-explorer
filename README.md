@@ -14,6 +14,7 @@ It is a **solo** project that I ([prc-github-prc](https://github.com/prc-github-
 
 ##### 1. Install git :
 -windows : download the exe file for windows from the [official website](https://git-scm.com/download/win)
+
 -linux (debian, ubuntu, kali...) : 
 ```
 sudo apt install git
