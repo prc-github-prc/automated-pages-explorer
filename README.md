@@ -7,7 +7,7 @@
 ************************************
 
 **Automated Pages Explore**r is a **python** script to **automatically** explore a web application.
-It is a **solo** project that I ([prc-github-prc](https://github.com/prc-github-prc)) developed to help web developers, web designers, web application pentesters or bug hunters to **enumerate** web applications. This program is different from tools like **gobuster** or **dirb**, which are tools that launch **dictionary based bruteforce attacks** against web application to find hidden files or *directory*. But the way that the script work will be detailed later.
+It is a **solo** project that I ([prc-github-prc](https://github.com/prc-github-prc)) developed to help web developers, web designers, web application pentesters or bug hunters to **enumerate** web applications. This program is different from tools like **gobuster** or **dirb**, which are tools that launch **dictionary based bruteforce attacks** against web application to find hidden files or directories. But the way that the script work will be detailed later.
 
 **********
 ## Installation and configuration :
@@ -38,7 +38,7 @@ sudo pacman -S python3 python3-pip
 
 ##### 3. Install dependencies with pip (some dependencies may be already satisfied):
 
--powershell or cmd for windows, bash or sh for linux : 
+-powershell or cmd for windows, bash, sh, zsh, ash... for linux : 
 ```
 pip install requests BeautifulSoup
 ```
