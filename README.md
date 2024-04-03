@@ -40,11 +40,11 @@ sudo pacman -S python3 python3-pip
 
 -powershell or cmd for windows, bash, sh, zsh, ash... for linux : 
 ```
-pip install requests BeautifulSoup
+pip install requests beautifulsoup4
 ```
 or :
 ```
-pip3 install requests BeautifulSoup
+pip3 install requests beautifulsoup4
 ```
 
 ##### 4. Clone the project (commands are the same for windows and linux) :
