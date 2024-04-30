@@ -86,7 +86,7 @@ If you want more details about how the **script works**, you can just **read the
 
 ## How are results files structured :
 
-if the user-provided url is **https://www.random-example.url/**, the results backup file will be :
+if the user-provided url is **https://www.random-example.url/**, the results file will be :
 ```
 https://www.random-example.url/ :
 https://www.random-example.url/page1
